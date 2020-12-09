@@ -11,3 +11,16 @@ C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\
 C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeRocha.dll
 C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeRocha.pdb
 C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeRocha.genruntimeconfig.cache
+C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha2\SA02_PhillipeRocha\bin\Debug\netcoreapp3.1\SA02_PhillipeRocha.exe
+C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha2\SA02_PhillipeRocha\bin\Debug\netcoreapp3.1\SA02_PhillipeRocha.deps.json
+C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha2\SA02_PhillipeRocha\bin\Debug\netcoreapp3.1\SA02_PhillipeRocha.runtimeconfig.json
+C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha2\SA02_PhillipeRocha\bin\Debug\netcoreapp3.1\SA02_PhillipeRocha.runtimeconfig.dev.json
+C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha2\SA02_PhillipeRocha\bin\Debug\netcoreapp3.1\SA02_PhillipeRocha.dll
+C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha2\SA02_PhillipeRocha\bin\Debug\netcoreapp3.1\SA02_PhillipeRocha.pdb
+C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha2\SA02_PhillipeRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeRocha.csprojAssemblyReference.cache
+C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha2\SA02_PhillipeRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeRocha.AssemblyInfoInputs.cache
+C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha2\SA02_PhillipeRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeRocha.AssemblyInfo.cs
+C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha2\SA02_PhillipeRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeRocha.csproj.CoreCompileInputs.cache
+C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha2\SA02_PhillipeRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeRocha.dll
+C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha2\SA02_PhillipeRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeRocha.pdb
+C:\Users\liped\OneDrive\Área de Trabalho\SA02_PhillipeRocha\SA02_PhillipeRocha\SA02_PhillipeRocha2\SA02_PhillipeRocha\obj\Debug\netcoreapp3.1\SA02_PhillipeRocha.genruntimeconfig.cache

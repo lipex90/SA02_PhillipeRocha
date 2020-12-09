@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\liped\OneDrive\Documentos\SA02_Receita_PhillipeRocha\Program.cs" Link="Program.cs" />
+    <Compile Include="SA02_Receita_1.1_PhillipeRocha" />
+  </ItemGroup>
+
+</Project>

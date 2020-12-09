@@ -1,7 +1,6 @@
 ﻿using System;
 
-
-namespace SA02_PhillipeRocha
+namespace SA02_Receita_PhillipeRocha
 {
     class Program
     {
@@ -31,7 +30,7 @@ namespace SA02_PhillipeRocha
             int n = int.Parse(Console.ReadLine());
             Console.Clear();
             for (int i = 0; i < n; i++)
-                {
+            {
                 switch (A)
                 {
 
@@ -40,6 +39,8 @@ namespace SA02_PhillipeRocha
 
                         Console.WriteLine("Digite o nome da receita: ");
                         string nomereceita = (Console.ReadLine());
+                   
+
                         Console.WriteLine("Digite o tempo de preparação: ");// nao esquecer colocar o tempo --:--
                         double tempopreparacao = double.Parse(Console.ReadLine());
                         Console.WriteLine("Digite o grau de dificuldade: ");
@@ -51,16 +52,17 @@ namespace SA02_PhillipeRocha
                         Console.WriteLine();
                         Console.WriteLine();
                         Console.Clear();
-                        
+                       
+
                         break;
                 }
-
+               
             }
-            
+
             switch (A)
             {
                 case 2:
-                   
+
 
                     {
                         // menu 2
@@ -79,15 +81,15 @@ namespace SA02_PhillipeRocha
                         int B;
                         B = Convert.ToInt32(Console.ReadLine());
                         Console.Clear();
-                        
-                       
 
-                            switch (B)
-                            {
+
+
+                        switch (B)
+                        {
 
                             //editar na receita
 
-                                case 1:
+                            case 1:
 
                                 Console.WriteLine("*****************************");
                                 Console.WriteLine("Alterar Receita");
@@ -99,11 +101,11 @@ namespace SA02_PhillipeRocha
                                 Console.WriteLine("*********************************");
                                 Console.WriteLine();
                                 Console.WriteLine();
-                     
+
                                 break;
-                                // editar no tempo de peparação
-                                
-                                       case 2:
+                            // editar no tempo de peparação
+
+                            case 2:
                                 Console.WriteLine("*****************************");
                                 Console.WriteLine("Alterar Tempo de preparação ");
                                 Console.WriteLine("*****************************");
@@ -114,28 +116,28 @@ namespace SA02_PhillipeRocha
                                 Console.WriteLine("*********************************");
                                 Console.WriteLine();
                                 Console.WriteLine();
-                               
-                              
+
+
 
                                 break;
-                               // editar o grau de dificuldade
+                            // editar o grau de dificuldade
 
                             case 3:
-                                Console.WriteLine    ("*****************************");
-                                    Console.WriteLine("Alterar o grau de dificuldade");
                                 Console.WriteLine("*****************************");
-                                    double graudificuldade = double.Parse(Console.ReadLine());
+                                Console.WriteLine("Alterar o grau de dificuldade");
+                                Console.WriteLine("*****************************");
+                                double graudificuldade = double.Parse(Console.ReadLine());
                                 Console.Clear();
                                 Console.WriteLine("*********************************");
                                 Console.WriteLine("Alteração concluido com sucesso! ");
                                 Console.WriteLine("*********************************");
                                 Console.WriteLine();
                                 Console.WriteLine();
-                              
-                              
+
+
                                 break;
-                                // editar quantidade de pessoas
-                                case 4:
+                            // editar quantidade de pessoas
+                            case 4:
                                 Console.WriteLine("*****************************");
                                 Console.WriteLine("Alterar quantidade de pessoa");
                                 Console.WriteLine("*****************************");
@@ -146,11 +148,11 @@ namespace SA02_PhillipeRocha
                                 Console.WriteLine("*********************************");
                                 Console.WriteLine();
                                 Console.WriteLine();
-                                
-                               
+
+
                                 break;
-                                // editar a categoria
-                                case 5:
+                            // editar a categoria
+                            case 5:
                                 Console.WriteLine("*****************************");
                                 Console.WriteLine("Alterar a categoria");
                                 Console.WriteLine("*****************************");
@@ -161,19 +163,19 @@ namespace SA02_PhillipeRocha
                                 Console.WriteLine("*********************************");
                                 Console.WriteLine();
                                 Console.WriteLine();
-                                
-                                
+
+
                                 break;
-                                // fim da operação
-                                default:
+                            // fim da operação
+                            default:
                                 Console.WriteLine("Obrigado pela operação!");
-                                    break;
-
-                              
-                            }
+                                break;
 
 
-                      
+                        }
+
+
+
 
                     }
                     break;
@@ -190,25 +192,19 @@ namespace SA02_PhillipeRocha
             {
                 default:
                     Console.WriteLine("Finalizado com sucesso! ");
-                        Console.WriteLine("Digita voltar");
+                    Console.WriteLine("*******************************");
+                    Console.WriteLine("Aperta Enter para voltar menu");
                     string voltar = Console.ReadLine();
                     Console.Clear();
-                    
+
                     break;
-                    
+
             }
             Console.ReadLine();
 
 
 
             goto inicio;
-
-
-
-
-
-
-
         }
     }
 }
